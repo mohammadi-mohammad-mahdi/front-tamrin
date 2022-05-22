@@ -1,0 +1,48 @@
+body{
+    direction: rtl;
+    font-family: 'B Titr';
+    background-color: rgba(133, 104, 120, 0.9);
+
+
+}
+nav{
+    background-color: #FFFBFE;
+    height: 100%;
+    width: 400px;
+    border-radius: 30px;
+}
+
+i{
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+    padding-top: 15px;
+    color: #592ec5;
+    padding-right: 8px;
+}
+ul{
+    padding-top: 8px;
+    padding-right:20px;
+    padding-left: 28px;
+    padding-bottom: 8px;
+    vertical-align: middle;
+
+}
+li{
+    border-radius:calc(56px / 2 );
+    vertical-align: middle;
+    height: 56pxssss;
+    background-color: #cac5c8;
+    padding-bottom: 15px;
+    margin: 15px;
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+li:hover{
+    background-color: #bb7fc0; 
+}
+li:focus{
+    background-color: #5b26b1; 
+
+} 
